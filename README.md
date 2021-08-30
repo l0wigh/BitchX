@@ -7,3 +7,10 @@ based on the ircii-EPIC4 releases by Jeremy Nelson.
 BitchX was originally started as a script by Trench and HappyCrappy
 for the popular UNIX IRC client ircII. Around Christmas of 1994 the
 script was patched directly into the client by panasync. 
+
+
+BitchX 2.0 Project
+=========
+[ ] latin1 -> utf-8
+[ ] add ssl support
+[ ] add some features ?
