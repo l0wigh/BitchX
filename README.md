@@ -11,6 +11,6 @@ script was patched directly into the client by panasync.
 
 BitchX 2.0 Project
 =========
-[ ] latin1 -> utf-8
-[ ] add ssl support
-[ ] add some features ?
+- [ ] latin1 -> utf-8
+- [ ] add ssl support
+- [ ] add some features ?
